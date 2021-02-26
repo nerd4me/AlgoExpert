@@ -1,4 +1,4 @@
-package arrays
+package linked_list
 
 type LinkedList struct {
 	Value int
